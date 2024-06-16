@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+ "I have a background in computer science and have interned as a Node.js developer, where I honed my skills in APIs, Prisma, Express, SQL, NoSQL databases, and TypeScript. Additionally, I have completed a project using the MERN stack, which demonstrates my ability to handle both backend and frontend development.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
